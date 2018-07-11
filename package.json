@@ -1,0 +1,20 @@
+{
+  "name": "getsheets",
+  "version": "1.0.0",
+  "description": "interact with google sheets on behalf of BC ClassroomAI skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm-update": "npm prune;npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCClassroomAI/GetSheets.git"
+  },
+  "author": "BC ClassroomAI team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BCClassroomAI/GetSheets/issues"
+  },
+  "homepage": "https://github.com/BCClassroomAI/GetSheets#readme"
+}
