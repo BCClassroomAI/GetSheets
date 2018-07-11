@@ -1,2 +1,3 @@
 # GetSheets
-code to wrap requests to Google Sheets for BC ClassroomAI Project
+
+Code to wrap requests to Google Sheets for BC ClassroomAI Project
