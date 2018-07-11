@@ -1,10 +1,10 @@
 {
   "name": "getsheets",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "interact with google sheets on behalf of BC ClassroomAI skills",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node tests/test.js",
     "npm-update": "npm prune;npm install"
   },
   "repository": {
